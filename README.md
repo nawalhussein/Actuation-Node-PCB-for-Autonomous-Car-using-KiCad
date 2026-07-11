@@ -19,14 +19,6 @@ At its core is an STM32 "BluePill" microcontroller. The board interfaces with va
 
 ---
 
-### System Block Diagram
-
-This diagram illustrates the logical and signal-flow relationships between the main hardware blocks on the PCB.
-
-![Embedded System Block Diagram showing the STM32 at the center, surrounded by logical input and output peripheral blocks linked by specific protocols](path/to/your/image.png)
-
----
-
 ### Project Repository Contents
 
 * `/hardware/`: Kicad design files (schematic and PCB)
